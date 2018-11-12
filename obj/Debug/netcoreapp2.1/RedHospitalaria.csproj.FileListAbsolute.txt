@@ -1,0 +1,11 @@
+C:\Users\Carlos\Desktop\RedHospitalaria\bin\Debug\netcoreapp2.1\RedHospitalaria.deps.json
+C:\Users\Carlos\Desktop\RedHospitalaria\bin\Debug\netcoreapp2.1\RedHospitalaria.runtimeconfig.json
+C:\Users\Carlos\Desktop\RedHospitalaria\bin\Debug\netcoreapp2.1\RedHospitalaria.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\RedHospitalaria\bin\Debug\netcoreapp2.1\RedHospitalaria.dll
+C:\Users\Carlos\Desktop\RedHospitalaria\bin\Debug\netcoreapp2.1\RedHospitalaria.pdb
+C:\Users\Carlos\Desktop\RedHospitalaria\obj\Debug\netcoreapp2.1\RedHospitalaria.csprojAssemblyReference.cache
+C:\Users\Carlos\Desktop\RedHospitalaria\obj\Debug\netcoreapp2.1\RedHospitalaria.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\RedHospitalaria\obj\Debug\netcoreapp2.1\RedHospitalaria.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\RedHospitalaria\obj\Debug\netcoreapp2.1\RedHospitalaria.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\RedHospitalaria\obj\Debug\netcoreapp2.1\RedHospitalaria.dll
+C:\Users\Carlos\Desktop\RedHospitalaria\obj\Debug\netcoreapp2.1\RedHospitalaria.pdb
